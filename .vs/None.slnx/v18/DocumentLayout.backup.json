@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SIT11\\visualstd\\API\\None\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A602361-E639-46B2-AD3D-3C991802F28F}|Model1\\Model1.csproj|d:\\sit11\\visualstd\\api\\none\\model1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A602361-E639-46B2-AD3D-3C991802F28F}|Model1\\Model1.csproj|solutionrelative:model1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\SIT11\\visualstd\\API\\None\\Model1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Model1\\WeatherForecast.cs",
+              "ToolTip": "D:\\SIT11\\visualstd\\API\\None\\Model1\\WeatherForecast.cs",
+              "RelativeToolTip": "Model1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T02:03:48.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
