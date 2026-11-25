@@ -201,3 +201,15 @@ D:\SIT11\API\Model1\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 D:\SIT11\API\Model1\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 D:\SIT11\API\Model1\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
 D:\SIT11\API\Model1\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.csproj.AssemblyReference.cache
+D:\SIT11\model1\Model1\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.AssemblyInfoInputs.cache
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.AssemblyInfo.cs
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.csproj.CoreCompileInputs.cache
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.MvcApplicationPartsAssemblyInfo.cs
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.MvcApplicationPartsAssemblyInfo.cache
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.sourcelink.json
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.dll
+D:\SIT11\model1\Model1\obj\Debug\net10.0\refint\Model1.dll
+D:\SIT11\model1\Model1\obj\Debug\net10.0\Model1.pdb
